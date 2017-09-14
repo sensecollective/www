@@ -14,6 +14,7 @@ export default class Home extends Component {
               className="center-block img-responsive"
             />
           </a>
+          <br/>
           <p>The Cancer Gene Trust (CGT) is a system designed to liberate clinical tumor data, especially molecular data, from medical institutions and other organizations worldwide and make it accessible for research use in real time. It will allow clinicians, researchers, and others to search cancer sequencing data and some clinical data in a secure, publicly open and available setting, to identify similar cases from around the world.</p>
         </div>
       </div>
