@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { Image, Nav, Navbar } from "react-bootstrap";
+import { Image, Nav, NavItem, Navbar } from "react-bootstrap";
 
 import "./App.css";
 import RouteNavItem from "./components/RouteNavItem";
@@ -20,6 +20,7 @@ class App extends Component {
 					</Navbar.Header>
 					<Navbar.Collapse>
 						<Nav pullRight>
+							<NavItem onClick={ e => window.open("http://search.cancergenetrust.org") }>Search</NavItem>
 							<RouteNavItem href="/about">About</RouteNavItem>
 							<RouteNavItem href="/faq">FAQ</RouteNavItem>
 						</Nav>
