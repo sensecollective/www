@@ -23,6 +23,7 @@ class App extends Component {
 							<NavItem onClick={ e => window.open("http://search.cancergenetrust.org") }>Search</NavItem>
 							<RouteNavItem href="/about">About</RouteNavItem>
 							<RouteNavItem href="/faq">FAQ</RouteNavItem>
+							<NavItem onClick={ e => window.open("http://ucsf.edu.cancergenetrust.org/api#/default") }>API</NavItem>
 						</Nav>
 					</Navbar.Collapse>
 				</Navbar>

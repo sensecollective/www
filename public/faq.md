@@ -2,13 +2,15 @@
 
 The Cancer Gene Trust is a Demonstration Project of the [Global Alliance for Genomics and Health](http://genomicsandhealth.org) (GA4GH). It is an online resource for sharing somatic cancer genomic and clinical data, consistent with appropriate patient consent. The CGT contains some fully public data, specifically somatic variants, from consented individuals, which are freely accessible to anyone with an internet connection in real time. Additional, restricted-access data remain under the jurisdiction of the data depositor, called a steward, and more information on specific cases may be made available to individual users directly from the steward. 
 
-**What happened to the Actionable Cancer Genome Initiative (ACGI)?**
+**Where can I find the code, docs, presentations etc...**
 
-The CGT evolved from the Actionable Cancer Genome Initiative, which had a more clinical focus on actionability in cancer variant data, due to a few observations:
-* It is straightforward to share all somatic variants in a VCF from an informatics perspective, and relatively straightforward in some jurisdictions from a regulatory and ethics perspective
-* Variants in a VCF cannot a priori be disqualified in the long-term from potentially contributing to clinically relevant observations, and therefore should be aggregated when possible
-* Therefore, a foundational repository of all somatic variants, along with some clinical information, provides a practical and powerful way to achieve comprehensive clinically useful outputs
-* Instead of an initial focus on actionability, we will support development of annotation applications on top of this foundational repository - thus, we will focus on developing the foundational CGT resource as a necessary precursor to any focus on actionability
+[Vancouver GA4GH 2016 Presentation](https://goo.gl/F5Asym)
+
+[GitHub](https://github.com/cancergenetrust).
+
+[Docker](https://hub.docker.com/u/cancergenetrust)
+
+[Slack](http://cgt-ga4gh.slack.com)
 
 **Why is data sharing important for scientific and medical advances?**
 
@@ -48,7 +50,7 @@ Each submission may contain a random number to enable access requests or re-cont
 
 **How can data scientists participate in the CGT?**
 
-Data scientists can participate in the development of the CGT software via [GitHub](https://github.com/ga4gh/CGT). Once the network has been established, they can participate by developing applications to search and curate the publicly available CGT to improve cancer research and clinical care.
+Data scientists can participate in the development of the CGT software via [GitHub](https://github.com/cancergenetrust.org). Once the network has been established, they can participate by developing applications to search and curate the publicly available CGT to improve cancer research and clinical care.
 
 **How can cancer researchers and clinicians participate in the CGT?**
 
@@ -69,3 +71,11 @@ The first goal of the CGT is to build a foundational online data network that wi
 **What types of web applications can be developed using the CGT network?**
 
 Many types of applications will be possible using the CGT data network. For example, ongoing work in the GA4GH including the [Variant Interpretation for Cancer Consortium](http://ga4gh.org/#/vic) and RNA Task Team will be able to use the network for improved cancer variant clinical curation and RNASeq analysis. Additional applications could allow users to watch for mentions of a specific cancer variant, drug dependency, or tumor site of origin, sending real-time updates when new data are available that meet specific criteria. We also expect that researchers will think of new uses for the data that will benefit patients, that the original developers of the CGT have never considered - the public, real-time nature of the data will enable new cancer discoveries and collaborations in a way not previously possible.
+
+**What happened to the Actionable Cancer Genome Initiative (ACGI)?**
+
+The CGT evolved from the Actionable Cancer Genome Initiative, which had a more clinical focus on actionability in cancer variant data, due to a few observations:
+* It is straightforward to share all somatic variants in a VCF from an informatics perspective, and relatively straightforward in some jurisdictions from a regulatory and ethics perspective
+* Variants in a VCF cannot a priori be disqualified in the long-term from potentially contributing to clinically relevant observations, and therefore should be aggregated when possible
+* Therefore, a foundational repository of all somatic variants, along with some clinical information, provides a practical and powerful way to achieve comprehensive clinically useful outputs
+* Instead of an initial focus on actionability, we will support development of annotation applications on top of this foundational repository - thus, we will focus on developing the foundational CGT resource as a necessary precursor to any focus on actionability
