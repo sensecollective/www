@@ -1,12 +1,11 @@
 debug:
-	npm start
+	npm run start
 
 build:
 	npm run build	
 
 deploy:
-	rsync -a --exclude='.git/' \
-		build/ ubuntu@admin.cancergenetrust.org:~/www
+	npm run deploy
 
 run:
 	docker run -d --name www \

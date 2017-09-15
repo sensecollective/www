@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import { Image, Nav, NavItem, Navbar } from "react-bootstrap";
+import { Nav, NavItem, Navbar } from "react-bootstrap";
 
 import "./App.css";
 import RouteNavItem from "./components/RouteNavItem";
@@ -14,7 +14,7 @@ class App extends Component {
 				<Navbar fluid collapseOnSelect>
 					<Navbar.Header>
 						<Navbar.Brand>
-              <Link to="/"><img src="logo_with_name.png" height="28px" /></Link>
+              <Link to="/"><img src="logo_with_name.png" alt="logo" height="28px" /></Link>
 						</Navbar.Brand>
 						<Navbar.Toggle />
 					</Navbar.Header>
