@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactMarkdown from "react-markdown";
 
-export default class About extends Component {
+export default class Contact extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -10,7 +10,7 @@ export default class About extends Component {
   }
 
   componentDidMount() {
-    fetch(`${this.props.match.path.slice(1)}.md`)
+    fetch('contact.md')
       .then(response => response.text())
       .then(markdown => this.setState({ markdown }))
       .catch(error => console.log(error));
@@ -18,7 +18,7 @@ export default class About extends Component {
 
   render() {
     return (
-      <div className="About">
+      <div className="Contact">
 				<ReactMarkdown source={this.state.markdown} />
       </div>
     );

@@ -2,16 +2,6 @@
 
 The Cancer Gene Trust is a Demonstration Project of the [Global Alliance for Genomics and Health](http://genomicsandhealth.org) (GA4GH). It is an online resource for sharing somatic cancer genomic and clinical data, consistent with appropriate patient consent. The CGT contains some fully public data, specifically somatic variants, from consented individuals, which are freely accessible to anyone with an internet connection in real time. Additional, restricted-access data remain under the jurisdiction of the data depositor, called a steward, and more information on specific cases may be made available to individual users directly from the steward. 
 
-**Where can I find the code, docs, presentations etc...**
-
-[Vancouver GA4GH 2016 Presentation](https://goo.gl/F5Asym)
-
-[GitHub](https://github.com/cancergenetrust).
-
-[Docker](https://hub.docker.com/u/cancergenetrust)
-
-[Slack](http://cgt-ga4gh.slack.com)
-
 **Why is data sharing important for scientific and medical advances?**
 
 No one institution houses enough data to understand every individual’s cancer; however, if many institutions pool their datasets, many more discoveries will be made that improve our research understanding of cancer as well as potentially enabling improved diagnosis, treatment, and prognosis of cancer patients in real time. Making data available publicly, thereby giving researchers and clinicians from all over the world access to the data, allows these advances to be made as quickly as possible.
@@ -22,7 +12,8 @@ The CGT publicly displays somatic cancer variants (the genetic mutations that oc
 
 **Who can access the CGT?**
 
-Anyone who has access to the internet can access the public CGT at cgt.ga4gh.org.
+Anyone who has access to the internet can search the public CGT at
+[search.cancergenetrust.org](http://search.cancergenetrust.org)
 
 **What is a steward?**
 
@@ -47,6 +38,16 @@ It is our belief and understanding that the CGT public record containing limited
 **How is the random number in each submission generated?**
 
 Each submission may contain a random number to enable access requests or re-contact. This number is not derived from a patient's personal information in any way. In particular it is not derived by 1-way hashing the patient's personal information. It is completely random. The random number maintains a link between a public record and a patient’s more detailed genomic and clinical data held securely by the trusted steward.
+
+**Where can I find the code, docs, presentations etc...**
+
+[Vancouver GA4GH 2016 Presentation](https://goo.gl/F5Asym)
+
+[GitHub](https://github.com/cancergenetrust).
+
+[Docker](https://hub.docker.com/u/cancergenetrust)
+
+[Slack](http://cgt-ga4gh.slack.com)
 
 **How can data scientists participate in the CGT?**
 
