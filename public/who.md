@@ -24,9 +24,10 @@ David Haussler (UCSC),
 Oliver Hofmann (University of Melbourne),
 Lim Weng Khong (Singhealth)
 Rachel Liao (Broad Institute),
-David Steinberg (UCSC)
+David Steinberg (UCSC),
+Heinz Stockinger (Swiss Institute of Bioinformatics)
 
-**Contact**
+**[Contact](https://github.com/cancergenetrust/www/issues/new)**
 
 [Rob Currie](https://www.soe.ucsc.edu/people/rcurrie), UC Santa Cruz Genomics Institute
 

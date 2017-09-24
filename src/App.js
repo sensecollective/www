@@ -23,6 +23,7 @@ const App = () => (
           <RouteNavItem href="/faq">FAQ</RouteNavItem>
           <RouteNavItem href="/resources">Resources</RouteNavItem>
           <RouteNavItem href="/who">Who</RouteNavItem>
+          <NavItem onClick={() => window.open('https://github.com/cancergenetrust/www/issues/new')}>Contact</NavItem>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
