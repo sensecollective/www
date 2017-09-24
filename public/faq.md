@@ -39,16 +39,6 @@ It is our belief and understanding that the CGT public record containing limited
 
 Each submission may contain a random number to enable access requests or re-contact. This number is not derived from a patient's personal information in any way. In particular it is not derived by 1-way hashing the patient's personal information. It is completely random. The random number maintains a link between a public record and a patient’s more detailed genomic and clinical data held securely by the trusted steward.
 
-**Where can I find the code, docs, presentations etc...**
-
-[Vancouver GA4GH 2016 Presentation](https://goo.gl/F5Asym)
-
-[GitHub](https://github.com/cancergenetrust).
-
-[Docker](https://hub.docker.com/u/cancergenetrust)
-
-[Slack](http://cgt-ga4gh.slack.com)
-
 **How can data scientists participate in the CGT?**
 
 Data scientists can participate in the development of the CGT software via [GitHub](https://github.com/cancergenetrust.org). Once the network has been established, they can participate by developing applications to search and curate the publicly available CGT to improve cancer research and clinical care.

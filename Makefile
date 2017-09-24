@@ -1,10 +1,8 @@
 debug:
 	npm run start
 
-build:
-	npm run build	
-
 deploy:
+	npm run build	
 	npm run deploy
 
 run:
