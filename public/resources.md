@@ -16,4 +16,6 @@
 
 [Docker](https://hub.docker.com/u/cancergenetrust)
 
-[Slack](http://cgt-ga4gh.slack.com)
+**Questions, Suggestions, Help**
+
+[GitHub Issue Tracker](https://github.com/cancergenetrust/www/issues/new)
