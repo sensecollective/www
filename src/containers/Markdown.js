@@ -1,25 +1,26 @@
-import React, { Component } from "react";
-import ReactMarkdown from "react-markdown";
+import React, { Component } from 'react';
+import ReactMarkdown from 'react-markdown';
 
 export default class Contact extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      markdown: "",
+      name: '',
+      markdown: '',
     };
   }
 
   componentDidMount() {
-    fetch('contact.md')
+    fetch(props.name)
       .then(response => response.text())
       .then(markdown => this.setState({ markdown }))
       .catch(error => console.log(error));
-	}
+  }
 
   render() {
     return (
       <div className="Contact">
-				<ReactMarkdown source={this.state.markdown} />
+        <ReactMarkdown source={props.markdown} />
       </div>
     );
   }

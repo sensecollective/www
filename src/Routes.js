@@ -7,7 +7,7 @@ import Home from './containers/Home';
 import About from './containers/About';
 import FAQ from './containers/FAQ';
 import Resources from './containers/Resources';
-import Who from './containers/Who';
+import Contact from './containers/Contact';
 import NotFound from './containers/NotFound';
 
 export default () => (
@@ -16,7 +16,7 @@ export default () => (
     <Route path="/about" exact component={withTracker(About)} />
     <Route path="/faq" exact component={withTracker(FAQ)} />
     <Route path="/resources" exact component={withTracker(Resources)} />
-    <Route path="/who" exact component={withTracker(Who)} />
+    <Route path="/contact" exact component={withTracker(Contact)} />
     <Route component={NotFound} />
   </Switch>
 );

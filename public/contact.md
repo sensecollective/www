@@ -1,14 +1,6 @@
-**Leadership**
+**Questions**
 
-David Haussler, UC Santa Cruz Genomics Institute
-
-Charles Sawyers, Memorial Sloan Kettering Cancer Center
-
-Bin Tean Teh, Singapore National Cancer Center
-
-Clare Turnbull, Genomics England
-
-Emile Voest, Netherlands Cancer Institute
+To ask a questions or to get involved file an issue [here](https://github.com/cancergenetrust/www/issues/new)
 
 **Contributors**
 
@@ -27,7 +19,19 @@ Rachel Liao (Broad Institute),
 David Steinberg (UCSC),
 Heinz Stockinger (Swiss Institute of Bioinformatics)
 
-**[Contact](https://github.com/cancergenetrust/www/issues/new)**
+**Steering Committee**
+
+David Haussler, UC Santa Cruz Genomics Institute
+
+Charles Sawyers, Memorial Sloan Kettering Cancer Center
+
+Bin Tean Teh, Singapore National Cancer Center
+
+Clare Turnbull, Genomics England
+
+Emile Voest, Netherlands Cancer Institute
+
+**Project Management**
 
 [Rob Currie](https://www.soe.ucsc.edu/people/rcurrie), UC Santa Cruz Genomics Institute
 
