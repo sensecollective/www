@@ -13,7 +13,7 @@ export default () => (
         />
       </a>
       <br />
-      <p>The Cancer Gene Trust (CGT) is a system designed to liberate clinical tumor data, especially molecular data, from medical institutions and other organizations worldwide and make it accessible for research use in real time. It will allow clinicians, researchers, and others to search cancer sequencing data and some clinical data in a publicly open and available setting, to identify similar cases from around the world.</p>
+      <p>The Cancer Gene Trust (CGT) is a system designed to liberate clinical tumor data, especially molecular data, from where it is siloed worldwide and make it accessible for research use in real time. It will allow clinicians, researchers, and others to search cancer sequencing data and some clinical data in a publicly open and available setting, to identify similar cases from around the world.</p>
     </div>
   </div>
 );
