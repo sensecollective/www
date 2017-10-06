@@ -15,6 +15,7 @@ Maximilian Haeussler (UCSC),
 David Haussler (UCSC),
 Oliver Hofmann (University of Melbourne),
 Lim Weng Khong (Singhealth)
+Bartha Knoppers (McGill University),
 Rachel Liao (Broad Institute),
 David Steinberg (UCSC),
 Heinz Stockinger (Swiss Institute of Bioinformatics)
