@@ -10,7 +10,7 @@ No one institution houses enough data to understand every individual’s cancer;
 
 The CGT publicly displays somatic cancer variants (the genetic mutations that occur only in the tumor and differ from an individual’s regular genome, which was inherited from his or her parents) as well as some clinical information that is not identifiable. The CGT may add other somatic tumor data types in the future, such as gene expression levels.
 
-**Which genomic clinical fields should I include?**
+**Which genomic data or clinical fields should I include?**
 
 It is completely up to a steward to determine what data will be shared. This may vary depending what data is available and/or what the steward and patient are comfortable and consented to share.  Each steward's fields will differ - this is on purpose so that stewards can share data without waiting until it is conformed and consistent. This latter step can occur after sharing by other groups. It also allows a steward to identify data that already exists and share it with little to no additional cost to the steward.
 
