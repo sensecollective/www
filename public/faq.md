@@ -1,6 +1,6 @@
 ﻿**What is the Cancer Gene Trust (CGT)?**
 
-The Cancer Gene Trust is a Demonstration Project of the [Global Alliance for Genomics and Health](http://genomicsandhealth.org) (GA4GH). It is an online resource for sharing somatic cancer genomic and clinical data, consistent with appropriate patient consent. The CGT contains some fully public data, specifically somatic variants, from consented individuals, which are freely accessible to anyone with an internet connection in real time. Additional, restricted-access data remain under the jurisdiction of the data depositor, called a steward, and more information on specific cases may be made available to individual users directly from the steward. 
+The Cancer Gene Trust is an early demonstration pilot of the [Global Alliance for Genomics and Health](http://genomicsandhealth.org) (GA4GH). It is an online resource for sharing somatic cancer genomic and clinical data, consistent with appropriate patient consent. The CGT contains some fully public data, specifically somatic variants, from consented individuals, which are freely accessible to anyone with an internet connection in real time. Additional, restricted-access data remain under the jurisdiction of the data depositor, called a steward, and more information on specific cases may be made available to individual users directly from the steward. 
 
 **Why is data sharing important for scientific and medical advances?**
 
@@ -9,6 +9,10 @@ No one institution houses enough data to understand every individual’s cancer;
 **What data are publicly available in the CGT?**
 
 The CGT publicly displays somatic cancer variants (the genetic mutations that occur only in the tumor and differ from an individual’s regular genome, which was inherited from his or her parents) as well as some clinical information that is not identifiable. The CGT may add other somatic tumor data types in the future, such as gene expression levels.
+
+**Which genomic clinical fields should I include?**
+
+It is completely up to a steward to determine what data will be shared. This may vary depending what data is available and/or what the steward and patient are comfortable and consented to share.  Each steward's fields will differ - this is on purpose so that stewards can share data without waiting until it is conformed and consistent. This latter step can occur after sharing by other groups. It also allows a steward to identify data that already exists and share it with little to no additional cost to the steward.
 
 **Who can access the CGT?**
 
@@ -51,9 +55,9 @@ Using applications developed to query the CGT network, cancer researchers and cl
 
 Patients, families, and advocates can donate their data to the CGT through an existing steward, or by setting up a new steward. Until the network of stewards grows, the choice of stewards will be limited. However, we will help patients, families and advocates encourage their care providers’ organizations and advocacy groups to set up new stewards. Patients, families, and advocates will also be able to use applications developed over the CGT network.
 
-**How does the CGT interact with other data sharing projects, like the Genomic Data Commons, ICGCmed, and GENIE?**
+**How does the CGT interact with other data sharing projects, like the NCI Genomic Data Commons, ICGCargo, and GENIE?**
 
-The CGT has active collaborations with many other cancer data sharing initiatives, including the Genomic Data Commons, ICGCmed, and AACR’s GENIE. It is the intent of the CGT that these organizations will either become stewards or support their contributors as stewards.
+The CGT has active collaborations with many other cancer data sharing initiatives, including the Genomic Data Commons, ICGCargo, and AACR’s GENIE. It is the intent of the CGT that these organizations will either become stewards or support their contributors as stewards.
 
 **How will the CGT help cancer patients? Clinicians? Researchers?**
 

@@ -11,7 +11,6 @@ export default class Markdown extends Component {
   }
 
   componentDidMount() {
-    console.log(this.state.path);
     fetch(this.state.path)
       .then(response => response.text())
       .then(markdown => this.setState({ markdown }))
