@@ -5,7 +5,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "rsync -a --exclude='.git/' build/ ubuntu@admin.cancergenetrust.org:~/www",
+    "deploy": "rsync -a --exclude='.git/' build/ ubuntu@admin.cancergenetrust.org:~/cgt/www",
     "serve": "serve -s build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
