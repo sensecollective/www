@@ -34,7 +34,7 @@ In our model, no identifiable information is shared publicly. A steward is respo
 
 Through this effort, every cancer patient’s tumor genetic tests can potentially be added to the CGT allowing for massive gains in research. On-ramps for data donation can be established at a number of levels, from local community and advocate-driven efforts to national programs. For example, patient data can be entered from local hospitals into the public CGT via an extension of current programs conducted by cancer registries. In the United States, these are programs accredited by the National Cancer Registry Association, and include the NCI Surveillance, Epidemiology, and End Results (SEER) program. The [International Association of Cancer Registries](http://www.iacr.com.fr/) (IACR) lists similar institutions in almost every country.
 
-Worldwide there are 80 million new cancer cases each year, and many will be tested multiple times during the course of the disease. With uptake for even a small percentage of these cases, the CGT can expand rapidly and enable a high impact. Additionally, given the CGT’s ability to scale to accommodate millions of cases, within a relatively short time the CGT could be one of the largest sources of somatic cancer data.
+Worldwide there are 14 million new cancer cases each year, and many will be tested multiple times during the course of the disease. With uptake for even a small percentage of these cases, the CGT can expand rapidly and enable a high impact. Additionally, given the CGT’s ability to scale to accommodate millions of cases, within a relatively short time the CGT could be one of the largest sources of somatic cancer data.
 
 **Submissions**
 
